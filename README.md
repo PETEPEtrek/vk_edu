@@ -1,2 +1,2 @@
 # vk_edu
-This is my repo for vk education
+This is my tic tac toe game
